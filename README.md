@@ -24,7 +24,7 @@ This project contains a Python script for web scraping, designed to extract summ
 1. Clone the repository to your local machine:
 
 ```
-git clone [Your Repository Link]
+git clone https://github.com/marswh12312313/GeneSumCrawler.git
 ```
 2. Install the dependencies:
 ```
