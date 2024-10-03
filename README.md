@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://image.marswh.top/123-removebg-preview.png" width="200" height="200" />
-</p>
-
 <h1 align="center">GeneCards Web Scraper</h1>
 
 <p align="center">
